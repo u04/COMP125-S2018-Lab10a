@@ -6,8 +6,8 @@
   "author": "u04",
   "license": "MIT",
   "engines": {
-    "node": ">=10.8.0",
-    "npm": ">=6.2.0"
+    "node": "10.8.0",
+    "npm": "6.2.0"
   },
   "devDependencies": {
     "@types/node": "^10.5.8"
